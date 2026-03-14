@@ -1,0 +1,6 @@
+/target
+cargo.lock
+.vscode/
+.env
+.csv
+.log
