@@ -14,5 +14,5 @@ A high-performance, asynchronous data pipeline built with **Rust** to ingest rea
 ## 📦 Installation & Execution
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/hnam06-rmxt/Market-Data-Pipeline]
+   git clone https://github.com/hnam06-rmxt/Market-Data-Pipeline
    cd Market-Data-Pipeline
