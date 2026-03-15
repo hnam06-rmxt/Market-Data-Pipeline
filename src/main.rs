@@ -11,7 +11,7 @@ async fn main() -> anyhow::Result<()> {
     println!("---Connecting to Biance...---");
 
     let (ws_stream, _) = connect_async(url).await?;
-    print!("Connect Successful");
+    println!("Connect Successful");
 
     let (_, mut read) = ws_stream.split();
 
